@@ -1,6 +1,6 @@
 # Work
 
-## [CountyCollabSW](CountyCollabSW)
+## [CountyCollabSW](CountyCollabSW) :cclbsw: :dl:
 
 * [o] prep
   - [X] make new channels
@@ -15,22 +15,24 @@
   - [ ] FAQ document
   - [ ] demo video
 
-## DL 1o1s
+## [DL1o1s](DL1o1s) :dl: :1o1:
 
-## DLProgs
+## [DLProgs](DLProgs) :dl: :prog:
 
 * [ ] B 2017-06-12 Reliable Resources slidedeck prep
+* [ ] winter program guide
 
-## DLVids
+## [DLVids](DLVids) :dl: :vids:
 
 * [ ] B 2017-04-30 Screencast for downloading ebooks mobile #diglit .inprogress
+* [ ] screencast demo slack for :cclbsw: 2017-08-23
+	* [ ] slack testing
 
-
-## OD
+## [OD](OD) :od:
 
 * [ ] B 2017-06-14 weekly #od order
 
-## SkedSW
+## [SkedSW](SkedSW) :skedsw:
 
 * [O] assess current scheduling processes by department:
 	* [X] AS
@@ -46,9 +48,11 @@
 	* Schedule3W
 * [ ] present findings at MC meeting 2017-06-28
 
-## StatsProj
+## [StatsProj](StatsProj) :stats:
 
 * [ ] C 2017-04-07 2017-02-10 #statproj document OpenRefine proof of concept procedure
+
+## misc
 
 * [ ] B 2017-06-14 weekly #od order
 * [ ] C 2017-03-31 Public Computing cloud storage notifications on desktop @MMIT

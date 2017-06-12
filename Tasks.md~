@@ -15,26 +15,44 @@
   - [ ] FAQ document
   - [ ] demo video
 
-## DL 1o1s
+## [DL1o1s](DL1o1s)
 
-## DLProgs
+## [DLProgs](DLProgs) :dl: :prog:
 
-## DLVids
-
-## OD
-
-## SkedSW
-
-## StatsProj
-
-* [ ] 2017-06-23 Talk to scheduler in @ADMIN re current usage #skedsw
-* [ ] A 2017-06-23 Talk to scheduler in @YS re current usage #skedsw .inprogress
-* [ ] B 2017-04-30 Screencast for downloading ebooks mobile #diglit .inprogress
 * [ ] B 2017-06-12 Reliable Resources slidedeck prep
+
+## [DLVids](DLVids) :dlvids:
+
+* [ ] B 2017-04-30 Screencast for downloading ebooks mobile #diglit .inprogress
+
+
+## [OD](OD) :od:
+
 * [ ] B 2017-06-14 weekly #od order
-* [ ] B 2017-06-16 schedule testing on #slack #countycollab with @BKMBL .waiting probably 2017-07-14
-* [ ] B 2017-06-23 assess a few options for #skedsw
-* [ ] B 2017-06-30 report on how #slack fits for the #countycollab
+
+## [SkedSW](SkedSW) :skedsw:
+
+* [O] assess current scheduling processes by department:
+	* [X] AS
+	* [ ] YS
+	* [X] CS
+	* [X] MMIT
+	* [X] BKMBL
+	* [o] Admin:
+		* [X] Sally
+		* [ ] Others
+* [ ] assess what the organization needs overall:
+	* When2Work
+	* Schedule3W
+* [ ] present findings at MC meeting 2017-06-28
+
+## [StatsProj](StatsProj) :stats:
+
+* [ ] C 2017-04-07 2017-02-10 #statproj document OpenRefine proof of concept procedure
+
+## misc
+
+* [ ] B 2017-06-14 weekly #od order
 * [ ] C 2017-03-31 Public Computing cloud storage notifications on desktop @MMIT
 * [ ] C 2017-04-07 2017-02-10 #statproj document OpenRefine proof of concept procedure
 * [ ] C 2017-04-21 Talk to @MMIT about upgrading laptop lab to Win10
