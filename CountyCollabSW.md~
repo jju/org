@@ -2,6 +2,27 @@
 % justin unrau
 % 2017-06-12
 
+# [CountyCollabSW](CountyCollabSW) :cclbsw: :dl:
+
+* [X] prep post-2017-06-13:
+  - [X] make new channels
+  - [X] figure out moderators/admin abilities:
+	  - [X] password reset Owner [alluserreset](https://get.slack.help/hc/en-us/articles/204510068-Reset-all-passwords-for-your-team)
+	  - [X] delete channels Owner Admin [deleteslackchannel](https://get.slack.help/hc/en-us/articles/213185307-Delete-a-channel)
+	  - [X] rename files:
+		  - [X] own - yes
+		  - [X] admin - no
+		  - [X] owner - no
+* [ ] testing:
+  - [ ] show TAS people
+  - [ ] go to halls to test with people who signed up
+* [ ] training:
+  - [ ] training county admins
+  - [ ] training MMIT
+  - [ ] training county hall executives
+  - [ ] FAQ document
+  - [ ] demo video
+
 :slack: :cclbsw: :county: :SS: :SC: :SN: :DB:
 
 # Slack
