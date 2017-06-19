@@ -8,9 +8,9 @@
 * [X] 2017-07-03 [FlavorReview](FlavorReview) 165 words:
 	* [X] 2017-06-17 read Flavor
 	* [X] write review
-* [o] 2017-07-03 [OurPlaceReview](OurPlaceReview) 165 words:
+* [X] 2017-07-03 [OurPlaceReview](OurPlaceReview) 165 words:
 	* [X] 2017-06-18 read Our Place
-	* [ ] write review
+	* [X] write review
 * [ ] :asrg: figure out review workflow
 
 ## [BackBurnerTasks](BackBurnerTasks)
@@ -50,14 +50,15 @@
 
 - [X] Can I get the DL programs this summer to test out what we're doing here? Yes
 - srg run it in surveymonkey
-- [ ] :JU: wait for platinum upgrade then make the 8 surveys in SM
+- [ ] :JU: SurveyMonkey platinum upgrade
+- [ ] make the 8 surveys in SM
 - [ ] develop staff survey
 - program outcomes folder in s drive
 - :SC: talk with MC about fall rollout
-  - whatever we're doing in the fall -> someone needs to map out which survey for which program 
-  - audiences and prepopulate on staff side
-  - SC will talk to TC about automating engagedpatrons export to staff side survey
-- [ ] look into doing 1o1s
+	- whatever we're doing in the fall -> someone needs to map out which survey for which program 
+	- audiences and prepopulate on staff side
+	- :SC: will talk to :TC: about automating engagedpatrons export to staff side survey
+- [ ] look into putting 1o1s into SM too
 * [ ] 2017-04-07 2017-02-10 :stats: document OpenRefine proof of concept procedure
 * [ ] 2017-04-30 quantitative analysis tool check (QDA Miner Lite) :stats:
 * [ ] watch project outcome webinar "User Experiences and Lessons Learned"
