@@ -1,10 +1,15 @@
 # Tasks & Events
 
+* [ ] 2017-06-12 :stats: meeting
 * [ ] 2017-06-21 :mmit: meeting
 * [ ] 2017-06-21 weekly :od: order
 * [ ] 2017-06-28 :mc: meeting
-* [ ] 2017-07-03 FlavorReview 165 words
-* [ ] 2017-07-03 OurPlaceReview 165 words
+* [X] 2017-07-03 [FlavorReview](FlavorReview) 165 words:
+	* [X] 2017-06-17 read Flavor
+	* [X] write review
+* [o] 2017-07-03 [OurPlaceReview](OurPlaceReview) 165 words:
+	* [X] 2017-06-18 read Our Place
+	* [ ] write review
 * [ ] :asrg: figure out review workflow
 
 ## [BackBurnerTasks](BackBurnerTasks)
@@ -28,10 +33,10 @@
 	* [o] Admin:
 		* [X] Sally
 		* [ ] Others
-* [o] assess what the organization needs overall:
-	* [.] When2Work:
+* [O] assess what the organization needs overall:
+	* [o] When2Work:
 		* [X] poke around
-		* [ ] assess
+		* [X] assess
 		* [ ] report
 	* [X] Schedule3W:
 		* [X] poke around
@@ -41,9 +46,19 @@
 
 ## [StatsProj](StatsProj) :stats:
 
+
+- [X] Can I get the DL programs this summer to test out what we're doing here? Yes
+- srg run it in surveymonkey
+- [ ] :JU: wait for platinum upgrade then make the 8 surveys in SM
+- [ ] develop staff survey
+- program outcomes folder in s drive
+- :SC: talk with MC about fall rollout
+  - whatever we're doing in the fall -> someone needs to map out which survey for which program 
+  - audiences and prepopulate on staff side
+  - SC will talk to TC about automating engagedpatrons export to staff side survey
+- [ ] look into doing 1o1s
 * [ ] 2017-04-07 2017-02-10 :stats: document OpenRefine proof of concept procedure
 * [ ] 2017-04-30 quantitative analysis tool check (QDA Miner Lite) :stats:
-* [ ] 2017-06-12 meeting
 * [ ] watch project outcome webinar "User Experiences and Lessons Learned"
 
 ## [DL1o1s](DL1o1s) :dl: :1o1:
@@ -70,3 +85,4 @@
 # [TasksComplete](TasksComplete)
 
 * [X] 2017-06-14 weekly :od: order
+

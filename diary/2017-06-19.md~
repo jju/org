@@ -1,0 +1,95 @@
+- [X] desk coverage for :SH: sick
+- [X] accumulate reviews for :asrg: from librarianaut.com
+- [X] project outcome meeting
+
+# Outcomes meeting
+
+## where we're at
+
+- there are other categories, then moving from prog outcomes to service outcomes
+- reporting tools rudimentary
+- prog feedback forms -> core set of things to measure
+- a thousand blossoms bloomed tweaked versions
+- really close to PO anyway
+- different sets of options that AS in library can track specific things for a year or so
+- program outcomes is the easiest part
+- plan of service responses
+- 90% of these benefits at the end of plan of service we were always at 100% satisfaction - pick too easy a target? - be more specific
+- if surveying people and asking our putting in and taking out of PO is not so helpful upload as a batch don't want people doing things 3x PO Plan of Service and patron aspect - EngagedPatrons could do followup surveys - patron perspective and staff perspective on program (not
+- sharon reports on stats to board and municipal affairs 2x year
+
+## 
+
+- ideally program planned and parameters go into a thing  location person prog happens and it maps to survey and programmer sits down to put in info about program and it's mapped already - can you remember?
+
+- statistics perforance measures based on board and municipal affairs - SN has 23 sources for -> reduced it to 12 sets of spreadhseets - 3wks to a month to get it all together
+
+- doesn't all have to be in one thing but if we can port the info out and make things talk to each other - 3 instead of 23 would be great - how many of this program are we doing and topics in 1o1s and stuff - many people looking for reports - county going service program inventory direction - too big to do everything based on a convo in a hall
+
+- KEY: programs categories - patrons providing us with surveys - stuck with it not going anywhere - painful
+
+- are we looking at the current data? in some ways yes bc partway through plan of service - SC: being prescriptive in what we're too detailed - start a dashboard towards goal - big picture stuff - AKU
+
+- by the end of this year benchmarking programs - fall 2017 - for plan of service - more we can do ogether the better - explaining the new surveys and the culture change that will be going along here
+
+- scope? - what is this group doing here - make some recommendations for stages and introduce surveys - attach to a backend - not worrying at content
+
+## tooleval
+
+- We can export out of both ProjectOutcome and SurveyMonkey to CSVs for analyzing our own data.
+- SurveyMonkey lets us customize questions more (eg. How did you learn about the program?) but the default printed version is not super pretty.
+- ProjectOutcome has better data entry for massloading in paper stats but I hate the Gates foundation logoing.
+- either one would need a secondary input from the program runner
+  * one large survey with question about the date and name of the program would be my preference rather than a separate document in each folder on the S drive or what have you
+- surveymonkey can embed links into engagedpatrons emails
+- register through engagedpatrons connection between survey link as followup keeping engagedpatrons? probably choose something along those lines
+- forms and polls available through the website and exporting results just straight from website
+- also google forms
+- would it help to make list of requirements? linked from needs to nice to haves probably work backwards from what we need to report - big spreadsheets and find individual program information
+- one requirement is to push direction to project outcome
+- want option for users to enter it online themselves, ipad with info there, or paper
+- unless you're helping mediate it you won't get good feedback
+- 6 online vs 100 paper for srg
+
+##
+
+- we are doing this for every program, including
+- YS cutting feedback from g1-6
+- open-ended feedback was for - if people want to comment on a topic then we'll see what can happen
+- let people comment on the bits that some people thought were important rather than armwrestling over
+
+## requirements:
+
+- want to track what's on surveys
+- which part of the service plan/service response a program maps to - alberta going back to 4 categories - a new split here, but the service responses are project
+- board cares about focused role or not - service response this program maps to which part of the plan, goal, objective, which survey is it attached to
+- 
+- quick snapshot and then followup a couple of weeks down the road if they said they'd be interested could do an interview to get digging deeper - Steve Patty -> Triangle of Caring - deep evaluation of how did this change your life? - designing good surveys and doing good interviews diary techniques and have a deep talk with them - longterm effects are what we want - how do we demonstrate that - idea is to layer - challenge to make those connections without leading user - pick up on themes they brought up
+
+- goal to evaluate tools then maybe toss
+
+- Vancouver starting with outcome and developing programs - this is about this and why we're doing this
+
+- new slate of politicians will need those freaking stories like the bear story
+
+## decisions
+
+- [X] Separate out each survey? Then we need a template for each of the survey types and a not-too-fiddly way to customize each one. This could get extra fiddly with printable versions from Project Outcome because of the way the program title is integrated into the survey question.
+  * SurveyMonkey printable versions could leave out the Title to keep them generic.
+- [X] Can I get the DL programs this summer to test out what we're doing here? Yes
+- srg run it in surveymonkey
+- [ ] upgrade surveymonkey to platinum
+- [ ] EO checking drupal forms polls to eliminate
+- [ ] develop staff survey
+- multisession series or individual sessions? - usually series but individual presenters - L@YL - individuals
+
+## takeaways
+
+- test with surveymonkey in summer:
+  - [ ] :JU: wait for platinum upgrade then make the 8 surveys in SM
+- program outcomes folder in s drive
+- SC talk with MC about fall rollout
+  - whatever we're doing in the fall -> someone needs to map out which survey for which program [what if we don't have program cycles? - run out of rooms so not having cycles would mess things up - could do other types of programs]
+  - audiences and prepopulate on staff side
+  - SC will talk to TC about automating engagedpatrons export to staff side survey
+- [ ] look into doing 1o1s
